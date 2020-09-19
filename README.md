@@ -49,11 +49,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [前后端项目快速整合Swagger](http://www.tremblingboy.cn/index.php/background/Swagger.html)
 - [权限框架Shiro快速整合前后端分离项目](http://www.tremblingboy.cn/index.php/background/finalShiro.html)
 - [深入Shiro如何优雅的进行配置？](http://www.tremblingboy.cn/index.php/background/19.html)
 - [初识Shiro有哪些需要注意的地方？](http://www.tremblingboy.cn/index.php/background/18.html)
 - [基于RBAC模型的权限处理与MySQL建表](http://www.tremblingboy.cn/index.php/background/RBAC.html)
-- [数学建模中背包问题三种语言解法](http://www.tremblingboy.cn/index.php/other/backpack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
