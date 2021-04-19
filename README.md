@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying at ZSTU!
 - 🌱 I’m currently learning everything around JAVA 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: World Peace 
+- 🥅 2021 Goals: Work for hikvision. Love my girlfriend more then ever.
 - ⚡ Fun fact: I love PROGRAMMING!
 
 ### Spotify Playing 🎧
