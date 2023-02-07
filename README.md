@@ -2,12 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=TREMBLINGBOY.CN&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 
-## I'm a Student!
+## I'm a Hiker!
 
-- 🔭 I’m currently studying at ZSTU!
 - 🌱 I’m currently learning everything around JAVA 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Peace.
+- 🥅 2023 Goals: Peace.
 - ⚡ Fun fact: I love PROGRAMMING!
 
 ### Spotify Playing 🎧
